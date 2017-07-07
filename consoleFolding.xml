@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other long poll or webhook" />
+        <option value="at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)" />
+        <option value="Sep 05, 2016 4:16:37 PM org.telegram.telegrambots.logging.BotLogger severe" />
+        <option value="Sep 05, 2016 4:16:37 PM org.telegram.telegrambots.logging.BotLogger severe" />
+        <option value="Sep 05, 2016 4:16:37 PM org.telegram.telegrambots.logging.BotLogger severe" />
+        <option value="SEVERE: BOTSESSION" />
+        <option value="Sep 05, 2016 4:17:37 PM org.telegram.telegrambots.logging.BotLogger severe" />
+        <option value="Sep 05, 2016 4:17:42 PM org.telegram.telegrambots.logging.BotLogger severe" />
+      </list>
+    </option>
+  </component>
+</application>
+
